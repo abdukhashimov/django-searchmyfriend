@@ -1,1 +1,1 @@
-web: gunicorn SearchMyFriend.wsgi
+web: gunicorn searchmyfriend.wsgi
